@@ -2071,6 +2071,12 @@ section#GYMFIT_start h2 {
   transition: all 0.2s ease-in-out;
 }
 
+.popup-img {
+  display: block;
+  width: 100%;
+  max-width: max-content;
+}
+
 .popup-img:hover img {
   opacity: 0.8;
   cursor: -webkit-zoom-in;
