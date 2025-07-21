@@ -1,1 +1,0 @@
-# endurance-by-gymfit-documentation
